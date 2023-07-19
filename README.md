@@ -1,11 +1,11 @@
-## Analisis TICs en Argentina
+# Analisis TICs en Argentina
 
 ![image](enacom.png)
 
 Este trabajo se realizó con el objetivo de que entender el comportamiento del sector de las TICs y brindar asesoría sobre posibles KPI's que permitan medir y acelerar el crecimiento de una empresa.
 Para ello se realizó un trabajo de investigación que tuvo como fuente principal de datos los datasets abiertos del ENACOM(Ente Nacional de Comunicaciones). Los datasets se pueden encontrar en el siguiente link: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
 
-# Las carpetas del repositorio son:
+### Las carpetas del repositorio son:
 -datasets: Contiene los archivos descargados de origen sin transformaciones. \
 -Transformados: Contiene los archivos renombrados con -transformaciones ya realizadas. \
 -src: contiene recursos del repositorio.
