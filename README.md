@@ -6,8 +6,8 @@ Este trabajo se realizó con el objetivo de que entender el comportamiento del s
 Para ello se realizó un trabajo de investigación que tuvo como fuente principal de datos los datasets abiertos del ENACOM(Ente Nacional de Comunicaciones). Los datasets se pueden encontrar en el siguiente link: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
 
 # Las carpetas del repositorio son:
--datasets: Contiene los archivos descargados de origen sin transformaciones.
--Transformados: Contiene los archivos renombrados con -transformaciones ya realizadas.
+-datasets: Contiene los archivos descargados de origen sin transformaciones. \
+-Transformados: Contiene los archivos renombrados con -transformaciones ya realizadas. \
 -src: contiene recursos del repositorio.
 
 ## EDA y ETL
