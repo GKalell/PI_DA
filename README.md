@@ -1,6 +1,6 @@
 # Analisis TICs en Argentina
 
-![image](src\enacom.png)
+![image](https://github.com/GKalell/PI_DA/blob/main/src/enacom.png)
 
 Este trabajo se realizó con el objetivo de que entender el comportamiento del sector de las TICs y brindar asesoría sobre posibles KPI's que permitan medir y acelerar el crecimiento de una empresa.
 Para ello se realizó un trabajo de investigación que tuvo como fuente principal de datos los datasets abiertos del ENACOM(Ente Nacional de Comunicaciones). Los datasets se pueden encontrar en el siguiente link: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
