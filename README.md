@@ -15,3 +15,5 @@ Para ello se realizó un trabajo de investigación que tuvo como fuente principa
 El ETL, es decir, La extracción, transformación y carga de los datos fue realizada con las librerias "pandas" de python. 
 
 El EDA consistió en analizar los diferentes datasets e ir verificando los datos en aspectos como cantidad de registros, cantidad de datos nulos y tipologia de los mismos. Luego de de realizar las distintas transformaciones se buscó analizar cada dataset a través de distintas metodologias estadisticas y graficas a fin de sacar conclusiones que permitan establecer KPIs para el crecimiento de una empresa del sector.
+
+El Dashboard tenía como objetivo dejar visibles los KPIs de forma que pudiera verse claramente el rendimiento, además de esto se buscó dejar visible información que permita visualizar el porqué de los mismos.
